@@ -1,4 +1,4 @@
-# Hi, I'm Murtaza Mustafa 👋
+# Hi, I'm Murtaza 👋
 
 📊 Data Analyst passionate about transforming data into actionable insights and supporting data-driven decision-making.
 
